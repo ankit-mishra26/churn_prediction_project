@@ -218,7 +218,7 @@ customer-churn-prediction/
     ├── data_loader.py
     └── visualizations.py
 ```
-the file structure should be like above shown. Though I had already made the project so I didnt change the structure. So those making projects from my projects refrence make proper structured project for better undersatnding and Neat visual ~ Ankit Mishra
+The file structure should be well structured and Neat as shown above. Though I had already made the project so I didnt change the structure. So those making projects from my projects refrence make proper structured project for better undersatnding and Neat visual ~ Ankit Mishra
 
 ## 🔍 Key Features Explained
 
